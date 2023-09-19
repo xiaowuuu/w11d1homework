@@ -28,9 +28,5 @@ public class WaterBottleTest {
         waterBottle.refill();
         assertEquals(100, waterBottle.getVolume());
     }
-    @Test
-    public void testTest(){
-
-    }
 
 }
